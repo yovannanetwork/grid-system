@@ -101,6 +101,39 @@ h1 a{
     
 }
 footer{
-    background: black;
+    background: #808080;
+    padding: 70px;
 }
-.pie-pagi
+.pie-pagina p{
+    color: white;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    font-family: arial;
+}
+.pie-pagina p a{
+    text-decoration: none;
+    color: #c0c0c0;
+    font-size: 20px;
+}
+.pie-pagina .link-pagina li{
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    left: 300px;
+    padding: 10px;
+}
+.pie-pagina .link-pagina li a{
+    text-decoration: none;
+    color: #c0c0c0;
+    font-size: 18px;
+}
+  
+.pie-pagina .link{
+    color: #AFA9A8;
+    text-align: center;
+    font-size: 16px;
+    position: relative;
+    left: 360px;
+}
