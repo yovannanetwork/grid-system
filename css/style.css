@@ -29,7 +29,7 @@ header .list-menu a{
     padding: 9px 9px;
 }
 .last-episodios{
-    background-color: azure;
+    background-color: #EFF1F3;
     border-bottom: 2px solid darkgray;
 }
 .last-episodios .list-episodios img{
@@ -37,9 +37,9 @@ header .list-menu a{
 }
 .last-episodios .list-episodios p{
     text-align: center;
-    color: blue;
+    color: #3D9AD4;
     font-size: 20px;
-    font-family: fantasy;
+    font-family: georgia;
     padding: 5px;
 }
 h1{
@@ -50,7 +50,7 @@ h1{
 h1 a{
     font-size: 20px;
     text-decoration: none;
-    color: blue;
+    color: #3D9AD4;
 }
 .contenido{
     margin-top: 40px;
@@ -68,8 +68,8 @@ h1 a{
     margin: 10px 10px 10px 0px;
 }
 .lista-contenido li p{
-    color: blue;
-    font-family: fantasy;
+    color: #3D9AD4;
+    font-family: georgia;
     text-align: center;
 }
 .lista-contenido li img{
@@ -94,10 +94,20 @@ h1 a{
 }
 .link-navegacion a{
     text-decoration: none;
-    color: blue;
+    color: #3D9AD4;
     font-family: sans-serif;
     font-size: 18px;
     padding: 8px;
+    padding-top: 20px;
+    
+}
+h3.sin-titulo{
+    border-bottom: 3px solid darkgray;
+}
+.link-navegacion .parrafo{
+    font-family: georgia;
+    font-size: 20px;
+    padding-top: 10px;
     
 }
 footer{
