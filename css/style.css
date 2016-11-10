@@ -121,7 +121,7 @@ footer{
     list-style: none;
     display: inline-block;
     position: relative;
-    left: 300px;
+    left: 260px;
     padding: 10px;
 }
 .pie-pagina .link-pagina li a{
@@ -135,5 +135,5 @@ footer{
     text-align: center;
     font-size: 16px;
     position: relative;
-    left: 360px;
+    left: 320px;
 }
